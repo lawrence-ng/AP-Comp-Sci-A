@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+D:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+D:\Program Files (x86)\BlueJ\lib\bluejcore.jar;D:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;D:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;D:\Program Files (x86)\BlueJ\lib\lang-stride.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\lawre\Desktop\APCompSciA\AP-Comp-Sci-A\Proj09
+-d
+C:\Users\lawre\Desktop\APCompSciA\AP-Comp-Sci-A\Proj09\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\lawre\Desktop\APCompSciA\AP-Comp-Sci-A\Proj09\Vendor.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\lawre\Desktop\APCompSciA\AP-Comp-Sci-A\Proj09\Vendor.java...
+C:\Users\lawre\Desktop\APCompSciA\AP-Comp-Sci-A\Proj09\Vendor.java:18: error: illegal start of type
+  ... Vendor ...
+  ^
+C:\Users\lawre\Desktop\APCompSciA\AP-Comp-Sci-A\Proj09\Vendor.java:18: error: ';' expected
+  ... Vendor ...
+     ^
+C:\Users\lawre\Desktop\APCompSciA\AP-Comp-Sci-A\Proj09\Vendor.java:18: error: illegal start of type
+  ... Vendor ...
+             ^
+C:\Users\lawre\Desktop\APCompSciA\AP-Comp-Sci-A\Proj09\Vendor.java:18: error: <identifier> expected
+  ... Vendor ...
+                ^
+C:\Users\lawre\Desktop\APCompSciA\AP-Comp-Sci-A\Proj09\Vendor.java:19: error: ';' expected
+  {
+   ^
+C:\Users\lawre\Desktop\APCompSciA\AP-Comp-Sci-A\Proj09\Vendor.java:27: error: class, interface, or enum expected
+  ... setStock ...
+  ^
+6 errors

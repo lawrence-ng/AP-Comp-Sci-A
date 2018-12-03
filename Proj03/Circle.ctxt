@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ A\ circle\ that\ has\ a\ radius\ and\ can\ return\ its\ area\ and\ circumference\r\n\r\n\ @author\ Lawrence\ Ng\r\n\ @version\ v.\ 1.0\r\n
+comment1.params=inputRadius
+comment1.target=Circle(double)
+comment1.text=\r\n\ Constructs\ a\ circle,\ taking\ a\ radius\ as\ input\r\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\r\n\ Get\ the\ circle's\ area\r\n\r\n\ @return\ \ \ \ Pi\ multiplied\ by\ the\ square\ of\ the\ radius\r\n
+comment3.params=
+comment3.target=double\ getCircumf()
+comment3.text=\r\n\ Get\ the\ circle's\ circumference\r\n\ @return\ \ \ \ the\ radius\ multiplied\ by\ 2\ pi\r\n
+numComments=4

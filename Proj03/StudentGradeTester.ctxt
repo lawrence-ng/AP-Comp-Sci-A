@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentGradeTester
+comment0.text=\r\n\ Create\ a\ student\ grade,\ add\ and\ drop\ scores,\ and\ print\ the\ resulting\ grade\r\n\r\n\ @author\ Lawrence\ Ng\r\n\ @version\ v.\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

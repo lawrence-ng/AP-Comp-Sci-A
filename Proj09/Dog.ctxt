@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dog
+comment1.params=nm\ ownersNm\ price\ lColor
+comment1.target=Dog(java.lang.String,\ java.lang.String,\ double,\ java.awt.Color)
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment3.params=
+comment3.target=java.lang.String\ getHappy()
+comment4.params=
+comment4.target=java.awt.Color\ getLColor()
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CrapsGame
+comment1.params=
+comment1.target=CrapsGame()
+comment2.params=total
+comment2.target=int\ processRoll(int)
+comment3.params=
+comment3.target=int\ getPoint()
+comment3.text=\r\n\ \ Returns\ the\ saved\ point\r\n
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BmiWDescrQA
+comment1.params=
+comment1.target=BmiWDescrQA()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=lbs\ inches
+comment3.target=double\ calculateBmi(int,\ int)
+comment4.params=ageGroup\ bmi
+comment4.target=java.lang.String\ bmiDescr(char,\ double)
+comment4.text=\ STEP\ 2\:\ TYPE\ YOUR\ bmiDescr\ METHOD\ FROM\ YOUR\ QUIZ\:\ TYPE\ AS-IS,\r\n\ \ THEN\ COMPILE\ &\ TRY\ TO\ RUN,\ CORRECTING\ MISTAKES\ &\ VERIFYING\ ALL\ CASES\r\n(BASED\ ON\ THE\ TABLE\ FROM\ THE\ CDC\ ON\ THE\ QUIZ)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\ STEP\ 3\:\ WRITE\ ON\ YOUR\ QUIZ\ PAPER\ WHY/HOW/WHAT\ THE\ MISTAKES\ WERE\r\n(IN\ ENGLISH)
+numComments=6

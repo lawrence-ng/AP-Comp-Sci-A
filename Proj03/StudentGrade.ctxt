@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StudentGrade
+comment0.text=\r\n\ A\ student\ grade\ that\ can\ be\ accumulated\ or\ subtraced\ from\r\n\r\n\ @author\ Lawrence\ Ng\r\n\ @version\ v.\ 1.0\r\n
+comment1.params=inputName
+comment1.target=StudentGrade(java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ student\ grade\ and\ takes\ a\ student\ name\ as\ input\r\n
+comment2.params=score\ maxScore
+comment2.target=void\ accumScore(int,\ int)
+comment2.text=\r\n\ add\ a\ score\ to\ the\ total\ grade\r\n\r\n\ @param\ an\ integer\ for\ the\ score\ and\ and\ integer\ for\ the\ maximum\ score\r\n
+comment3.params=score\ maxScore
+comment3.target=void\ dropScore(int,\ int)
+comment3.text=\r\n\ remove\ a\ score\ from\ the\ total\ grade\r\n\r\n\ @param\ an\ integer\ for\ the\ score\ and\ and\ integer\ for\ the\ maximum\ score\r\n
+comment4.params=
+comment4.target=int\ calcGrade()
+comment4.text=\r\n\ calculate\ the\ student's\ grade\r\n\r\n\ @return\ the\ student's\ grade\r\n
+numComments=5

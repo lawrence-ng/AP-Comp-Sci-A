@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cylinder
+comment0.text=\r\n\ A\ cylinder\ that\ has\ a\ base\ and\ a\ height\ and\ can\ return\ a\ volume\ and\ a\ surface\ area\r\n\r\n\ @author\ Lawrence\ Ng\r\n\ @version\ v.\ 1.0\r\n
+comment1.params=radius\ inputHeight
+comment1.target=Cylinder(double,\ double)
+comment1.text=\r\n\ Constructs\ a\ cylinder,\ taking\ a\ radius\ and\ a\ height\ as\ inputs.\r\n
+comment2.params=
+comment2.target=double\ getVolume()
+comment2.text=\r\n\ Get\ the\ volume\ of\ the\ cylinder\r\n\r\n\ @return\ \ \ \ the\ product\ of\ the\ base\ and\ the\ height\r\n
+comment3.params=
+comment3.target=double\ getSurfArea()
+comment3.text=\r\n\ Get\ the\ surface\ area\ of\ the\ cylinder\r\n\r\n\ @return\ \ \ \ the\ sum\ of\ the\ product\ of\ the\ circumference\ of\ the\ base\ and\ the\ height\ and\ 2\ times\ the\ area\ of\ the\ base\r\n
+numComments=4

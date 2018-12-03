@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Vendor
+comment0.text=\r\n\ This\ class\ implements\ a\ vendor\ that\ sells\ one\ kind\r\n\ of\ items.\ A\ vendor\ carries\ out\ sales\ transactions.\r\n
+comment1.params=cents\ num
+comment1.target=Vendor(int,\ int)
+comment1.text=\r\n\ Constructs\ a\ Vendor\r\n\ @param\ price\ the\ price\ of\ a\ single\ item\ in\ cents\ (int)\r\n\ @param\ stock\ number\ of\ items\ to\ place\ in\ stock\ (int)\r\n
+comment2.params=qty
+comment2.target=void\ setStock(int)
+comment2.text=\r\n\ Sets\ the\ quantity\ of\ items\ in\ stock.\r\n\ @param\ qty\ number\ of\ items\ to\ place\ in\ stock\ (int)\r\n
+comment3.params=
+comment3.target=int\ getStock()
+comment3.text=\r\n\ Returns\ the\ number\ of\ items\ currently\ in\ stock.\r\n\ @return\ number\ of\ items\ currently\ in\ stock\ (int)\r\n
+comment4.params=cents
+comment4.target=void\ addMoney(int)
+comment4.text=\r\n\ Adds\ a\ specified\ amount\ (in\ cents)\ to\ the\r\n\ deposited\ amount.\r\n\ @param\ number\ of\ cents\ to\ add\ to\ the\ deposit\ (int)\r\n
+comment5.params=
+comment5.target=int\ getDeposit()
+comment5.text=\r\n\ Returns\ the\ currently\ deposited\ amount\ (in\ cents).\r\n\ @return\ number\ of\ cents\ in\ the\ current\ deposit\ (int)\r\n
+comment6.params=
+comment6.target=boolean\ makeSale()
+comment6.text=\r\n\ Implements\ a\ sale.\ \ If\ there\ are\ items\ in\ stock\ and\r\n\ the\ deposited\ amount\ is\ greater\ than\ or\ equal\ to\r\n\ the\ single\ item\ price,\ then\ adjusts\ the\ stock\r\n\ and\ calculates\ and\ sets\ change\ and\ returns\ true;\r\n\ otherwise\ refunds\ the\ whole\ deposit\ (moves\ it\ into\r\n\ change)\ and\ returns\ false.\r\n\ @return\ true\ for\ a\ successful\ sale,\ false\ otherwise\ (boolean)\r\n
+comment7.params=
+comment7.target=int\ getChange()
+comment7.text=\r\n\ Returns\ and\ zeroes\ out\ the\ amount\ of\ change\ (from\r\n\ the\ last\ sale\ or\ refund).\r\n\ @return\ number\ of\ cents\ in\ the\ current\ change\ (int)\r\n
+numComments=8

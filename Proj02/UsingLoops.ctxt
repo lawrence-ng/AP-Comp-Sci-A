@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=UsingLoops
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UsingLoops\ here.\r\n\r\n\ @author\ Jerry\ Gao\r\n\ @version\ 10/31/2018\r\n
+comment1.params=initYear\ initPop\ finalPop\ growthRate
+comment1.target=int\ popGrowth(int,\ double,\ double,\ double)
+comment1.text=\r\n\ @param\ int\ initial\ year,\ double\ initial\ population,\ final\ population,\ double\ rate\ of\ the\ population\ growth\r\n\ @return\ int\ final\ year\r\n
+comment2.params=n
+comment2.target=int\ addMultOf3(int)
+comment2.text=\r\n\ @param\ int\ number\ between\ 0\ and\ n\r\n\ @return\ int\ sum\ of\ the\ multiples\ of\ 3\ in\ between\ 0\ and\ n\r\n
+comment3.params=rowNum1\ count1\ k\ rowNum2
+comment3.target=int\ calcChairs(int,\ int,\ int,\ int)
+comment3.text=\r\n\ @param\ int\ row\ number\ initial,\ int\ number\ of\ seats\ in\ the\ initial\ row,\ int\ added\ amount\ of\ seats\ for\ each\ increase\ in\ rows,\ int\ row\ final\r\n\ @return\ number\ of\ seats\ in\ row\ final\r\n
+comment4.params=rate\ desire
+comment4.target=double\ knowledgeGrowth(double,\ double)
+comment4.text=\r\n\ @param\ double\ rate\ learning,\ double\ desired\ progression\r\n\ @return\ double\ months\ needed\ to\ reach\ desired\r\n
+comment5.params=n
+comment5.target=double\ estPi(int)
+comment5.text=\r\n\ @param\ int\ number\ of\ terms\ used\ to\ find\ pi\r\n\ @return\ double\ estimate\ of\ pi\r\n
+comment6.params=n
+comment6.target=void\ starTriangle(int)
+comment7.params=n
+comment7.target=void\ identMatrix(int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

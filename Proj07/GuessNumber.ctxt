@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GuessNumber
+comment0.text=\r\n\ \ \ A\ class\ to\ store\ a\ number\ to\ guess\ and\ return\ a\ closeness\ hint\r\n
+comment1.params=
+comment1.target=GuessNumber()
+comment1.text=\r\n\ \ \ \ \ \ Construct\ an\ GuessNumber\ with\ a\ random\ value\ between\ 1\ and\ 50\r\n
+comment2.params=guess
+comment2.target=java.lang.String\ howClose(int)
+comment2.text=\r\n\ \ \ \ \ \ Determine\ how\ close\ the\ guess\ is\ and\ return\ a\ hint\r\n\ \ \ \ \ \ @return\ a\ string\ describing,\ in\ terms\ of\ hotness\ or\ coldness,\ how\r\n\ \ \ \ \ \ close\ the\ guess\ is\ to\ the\ number\r\n
+comment3.params=number\ guess
+comment3.target=java.lang.String\ check(int,\ int)
+numComments=4
